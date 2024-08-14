@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm currently pursuing my M.S.(Research) @IIT-Delhi in School of AI<br>My research area is Computer Vision.</p>
+<p align="center">I'm currently pursuing my M.S.(Research) @IIT-Delhi in School of AI<br>My research area is Computer Vision, specifically OCR.</p>
 
 ###
 
