@@ -12,11 +12,3 @@
 
 <p align="center">I'm currently pursuing my M.S.(Research) @IIT-Delhi in School of AI<br>My research area is Computer Vision, specifically OCR.</p>
 
-###
-
-<div align="center">
-  <img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankKrishnaV&show_icons=true&hide_rank=true&show_icons=true&theme=transparent#gh-dark-mode-only&hide_border=true" />
-
-</div>
-
-###
