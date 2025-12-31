@@ -10,5 +10,5 @@
 
 ###
 
-<p align="center">I'm currently pursuing my M.S.(Research) @IIT-Delhi in School of AI<br>My research area is Computer Vision, specifically OCR.</p>
+<p align="center">I'm an ML Engineer at Typeface.AI with a Master’s in Artificial Intelligence from IIT Delhi. I work at the intersection of computer vision, OCR, and vision–language models, focusing on building scalable, real-world AI systems.</p>
 
